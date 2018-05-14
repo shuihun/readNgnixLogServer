@@ -1,0 +1,11 @@
+1
+Client: Close.
+Client: Close.
+Client: Close.
+Client: Close.
+Client: Close.
+Client: Close.
+Client: Close.
+Client: Close.
+[2018-02-01 09:00:53 #4104.0]	ERROR	swReactorEpoll_del(:146): epoll remove fd[20#0] failed. Error: No such file or directory[2].
+Client: Close.
